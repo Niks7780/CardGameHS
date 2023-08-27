@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98a39b20b02adc4a9c8e91e1d802263, type: 3}
+  m_Name: Emeriss
+  m_EditorClassIdentifier: 
+  _cost: 10
+  _id: 1001
+  _name: Emeriss
+  _texture: {fileID: 2800000, guid: 86e6ed448533a3f40adc82fbf730e3a9, type: 3}
+  _attack: 8
+  _health: 8
+  _type: 0
+  _description: 
